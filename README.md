@@ -8,22 +8,22 @@
  <br> Bem vindo ao meu perfil!<br>
 
 ## Sobre mim
-- 👨‍💻 Sou um programador iniciante apaixonado por tecnologia.
-- 🌱 Atualmente, estou fazendo faculdade de <strong>Desenvolvimento de Aplicativos Móveis</strong>.<br>
-- 📚 Estou sempre em busca de novos conhecimentos e desafios.
+👨‍💻 Sou um programador iniciante apaixonado por tecnologia.
+🌱 Atualmente, estou fazendo faculdade de <strong>Desenvolvimento de Aplicativos Móveis</strong>.<br>
+📚 Estou sempre em busca de novos conhecimentos e desafios.
 </p>
 
 <p align="left">
- - 🦄 Linguagens com conhecimento básico: **Python, Flutter, JavaScript, HTML/CSS**<br>
- - 📖 Próximas Linguagens a estudar: **React, Node.js**<br>
+ 🦄 Linguagens com conhecimento básico: **Python, Flutter, JavaScript, HTML/CSS**<br>
+ 📖 Próximas Linguagens a estudar: **React, Node.js**<br>
 </p>
 
 <p align="left">
-  - 📫 Você pode entrar em contato comigo por e-mail. ⤵️
+ 📫 Você pode entrar em contato comigo por e-mail. ⤵️
 </p>
 
 <p align="left">
-  💌 📱 Também pode tentar contato nas redes sociais, aproveita e me segue e da um joinha lá também: ⤵️
+ 💌 📱 Também pode tentar contato nas redes sociais, aproveita e me segue e da um joinha lá também: ⤵️
 </p>
 
 <div> 
