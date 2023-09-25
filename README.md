@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-🌱 Atualmente, estou fazendo faculdade de <strong>Desenvolvimento de Aplicativos Móveis</strong>.<br>
+🌱 Atualmente, estou fazendo faculdade de <strong>Desenvolvimento de Aplicativos Móveis na Faculdade Unicesumar</strong>.<br>
 </p>
 <p align="left">
 📚 Estou sempre em busca de novos conhecimentos e desafios.
