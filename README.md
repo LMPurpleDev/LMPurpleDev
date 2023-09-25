@@ -4,17 +4,26 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  # Olá meu nome é Luan Machado, mas pode me chamar de LM ou Purple! 👋
+  # Olá meu nome é <strong>Luan Machado</strong>, mas pode me chamar de LM ou Purple! 👋
  <br> Bem vindo ao meu perfil!<br>
+</p>
 
+<p align="left">
 ## Sobre mim
 👨‍💻 Sou um programador iniciante apaixonado por tecnologia.
+<br>
+</p>
+
+<p align="left">
 🌱 Atualmente, estou fazendo faculdade de <strong>Desenvolvimento de Aplicativos Móveis</strong>.<br>
+</p>
+<p align="left">
 📚 Estou sempre em busca de novos conhecimentos e desafios.
 </p>
 
 <p align="left">
  🦄 Linguagens com conhecimento básico: **Python, Flutter, JavaScript, HTML/CSS**<br>
+</p>
  📖 Próximas Linguagens a estudar: **React, Node.js**<br>
 </p>
 
